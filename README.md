@@ -1,18 +1,17 @@
-# Elite-Qualifier
 
-# Title
+# ChatBot
 
-Simple (or clever and funny?) description
+Let's have a chat?
 
 ## Table of Contents
 
-- [Background](#background)
+- [Description](#description)
 
 - [Install](#install)
 
 - [Usage](#usage)
 
-## Background
+## Description
 
 This is a small project completed for the Elite course. Completed in 4 days, with a lot of experimenting before it got to this state.
 
